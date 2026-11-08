@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jarvis</string>
+    <string name="a11y_desc">Lets your voice assistant press Home and Back, tap on-screen text, scroll and type when you ask it to.</string>
+</resources>
